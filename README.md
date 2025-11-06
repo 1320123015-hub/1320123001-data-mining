@@ -1,2 +1,2 @@
-# 1320123001-data-mining
+# 1320123015-data-mining
 Repository untuk praktikum data mining.
